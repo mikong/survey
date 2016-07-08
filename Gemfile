@@ -47,3 +47,4 @@ end
 
 gem 'newrelic_rpm'
 gem 'ey_config'
+gem 'delayed_job'
