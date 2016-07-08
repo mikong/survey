@@ -47,4 +47,4 @@ end
 
 gem 'newrelic_rpm'
 gem 'ey_config'
-gem 'delayed_job'
+gem 'delayed_job_active_record'
